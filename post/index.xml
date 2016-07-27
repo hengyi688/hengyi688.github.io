@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on hengyi</title>
-    <link>http://hengyi688.github.io/post/</link>
+    <link>https://hengyi688.github.io/post/</link>
     <description>Recent content in Posts on hengyi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Jul 2016 13:20:57 +0800</lastBuildDate>
-    <atom:link href="http://hengyi688.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hengyi688.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>http://hengyi688.github.io/post/first/</link>
+      <link>https://hengyi688.github.io/post/first/</link>
       <pubDate>Wed, 27 Jul 2016 13:20:57 +0800</pubDate>
       
-      <guid>http://hengyi688.github.io/post/first/</guid>
+      <guid>https://hengyi688.github.io/post/first/</guid>
       <description>
 
 &lt;h1 id=&#34;my-first-blog&#34;&gt;My first blog&lt;/h1&gt;
